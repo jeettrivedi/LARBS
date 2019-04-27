@@ -1,4 +1,5 @@
 # Luke's Auto-Rice Bootstraping Scripts (LARBS)
+# (Script adapted to my config)
 
 
 ## Installation:
